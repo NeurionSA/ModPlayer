@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModPlayer", "ModPlayer\ModPlayer.csproj", "{679B2503-98EF-47BD-A557-02E75F29A740}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{679B2503-98EF-47BD-A557-02E75F29A740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{679B2503-98EF-47BD-A557-02E75F29A740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{679B2503-98EF-47BD-A557-02E75F29A740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{679B2503-98EF-47BD-A557-02E75F29A740}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {360A6ABE-A943-46EC-8B15-8382C767F232}
+	EndGlobalSection
+EndGlobal
